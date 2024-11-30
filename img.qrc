@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>wcdo.png</file>
+        <file>mc.jpg</file>
+    </qresource>
+</RCC>
